@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class appController {
     @GetMapping("/index")
     public String app(){
-        return "Bonjour et bon courage dans votre projet en DevOps";
+        return "Bonjour et bon courage dans votre projet en DevOps nouvelles modifs";
     }
 }
